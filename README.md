@@ -1,2 +1,2 @@
 # Prova
-https://github.com/robsoncdesouza/Prova.git.index
+https://robsoncdesouza.github.io/Prova.index
